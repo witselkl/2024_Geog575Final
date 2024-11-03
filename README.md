@@ -1,6 +1,8 @@
 # Team Name
+Team Solo
 
 ### Team Members
+1. Karen Witsell
 
 ### Final Proposal
 1. Persona/Scenario
